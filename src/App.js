@@ -133,7 +133,7 @@ const App = () => {
           </TabList>
         </Tabs>
         <Flex alignItems="center">
-          <CreateOrderForm />
+          <CreateOrderForm refetch={refetch} />
           <ColorModeSwitcher justifySelf="flex-end" />
         </Flex>
       </Flex>

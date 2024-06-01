@@ -33,7 +33,7 @@ import { useQuery, useMutation } from '@tanstack/react-query';
 import { Select as ChakraReactSelect } from 'chakra-react-select';
 import makeAnimated from 'react-select/animated';
 
-const CreateOrderForm = () => {
+const CreateOrderForm = ({ refetch }) => {
   const { isOpen, onOpen, onClose } = useDisclosure();
   const { control, handleSubmit, reset, setValue } = useForm();
   const [selectedProducts, setSelectedProducts] = useState([]);
@@ -54,6 +54,7 @@ const CreateOrderForm = () => {
     mutationFn: createSalesOrder,
     onSuccess: () => {
       setTimeout(() => {
+        refetch();
         resetForm();
       }, 3000);
     },

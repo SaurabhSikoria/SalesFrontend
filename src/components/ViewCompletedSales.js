@@ -1,4 +1,3 @@
-// src/components/ViewCompletedSales.js
 import React, { useEffect } from 'react';
 import {
   Modal,

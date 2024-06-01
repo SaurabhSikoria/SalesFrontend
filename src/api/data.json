@@ -6,11 +6,7 @@
       "customer_profile": {
         "id": 11908,
         "name": "Ram",
-        "color": [
-          182,
-          73,
-          99
-        ],
+        "color": [182, 73, 99],
         "email": "jesus_christ@church.com",
         "pincode": "Mumbai",
         "location_name": "Mumbai, Maharashtra, India",
@@ -25,11 +21,7 @@
       "customer_profile": {
         "id": 12009,
         "name": "Sita",
-        "color": [
-          34,
-          139,
-          34
-        ],
+        "color": [34, 139, 34],
         "email": "sita_goddess@ayodhya.com",
         "pincode": "Ayodhya",
         "location_name": "Ayodhya, Uttar Pradesh, India",
@@ -44,11 +36,7 @@
       "customer_profile": {
         "id": 12110,
         "name": "Lakshman",
-        "color": [
-          255,
-          165,
-          0
-        ],
+        "color": [255, 165, 0],
         "email": "lakshman@ayodhya.com",
         "pincode": "Ayodhya",
         "location_name": "Ayodhya, Uttar Pradesh, India",
@@ -63,11 +51,7 @@
       "customer_profile": {
         "id": 12211,
         "name": "Bharat",
-        "color": [
-          0,
-          191,
-          255
-        ],
+        "color": [0, 191, 255],
         "email": "bharat@ayodhya.com",
         "pincode": "Ayodhya",
         "location_name": "Ayodhya, Uttar Pradesh, India",
@@ -82,11 +66,7 @@
       "customer_profile": {
         "id": 12312,
         "name": "Shatrughna",
-        "color": [
-          128,
-          0,
-          128
-        ],
+        "color": [128, 0, 128],
         "email": "shatrughna@ayodhya.com",
         "pincode": "Ayodhya",
         "location_name": "Ayodhya, Uttar Pradesh, India",
@@ -119,11 +99,7 @@
           "customer_profile": {
             "id": 11908,
             "name": "Ram",
-            "color": [
-              182,
-              73,
-              99
-            ],
+            "color": [182, 73, 99],
             "email": "jesus_christ@church.com",
             "pincode": "Mumbai",
             "location_name": "Mumbai, Maharashtra, India",

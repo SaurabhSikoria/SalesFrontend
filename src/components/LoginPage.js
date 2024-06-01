@@ -1,4 +1,3 @@
-// LoginPage.js
 import React from 'react';
 import {
   Box,
